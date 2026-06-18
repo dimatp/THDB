@@ -97,7 +97,7 @@ Todo o conteúdo é disponibilizado para fins educacionais.
 ## Estrutura do Repositório
 
 ```
-HdB-RIF/
+THDB/
 ├── README.md                   ← este arquivo
 ├── parte1_zeek/
 │   ├── iocs_emotet.txt         ← IoCs exportados da análise de rede
