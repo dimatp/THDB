@@ -41,7 +41,7 @@ Perícia sobre uma imagem de disco apreendida pela Delegacia de Crimes Cibernét
 ## Estrutura do repositório
 
 ```
-HdB-RIF/
+THDB/
 ├── docs/                  ← fonte do site (Markdown)
 │   ├── contexto/          ← Emotet, Greg Schardt, visão geral do caso
 │   ├── ambiente/          ← configuração do lab (Zeek + Autopsy)
