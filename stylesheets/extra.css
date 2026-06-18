@@ -1,0 +1,10 @@
+/* Destaque para blocos de comando zeek-cut */
+.highlight .c1 { font-style: italic; }
+
+/* Badge de confiança nos IoCs */
+.badge-alta  { background: #2e7d32; color: #fff; padding: 2px 8px; border-radius: 4px; font-size: 0.78em; }
+.badge-media { background: #e65100; color: #fff; padding: 2px 8px; border-radius: 4px; font-size: 0.78em; }
+
+/* Linha do tempo */
+.timeline-entry { border-left: 3px solid var(--md-primary-fg-color); padding-left: 1em; margin-bottom: 1.2em; }
+.timeline-ts    { font-family: var(--md-code-font); font-size: 0.85em; color: var(--md-default-fg-color--light); }
