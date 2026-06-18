@@ -1,8 +1,8 @@
 # HdB-RIF — Relatório de Incidente Forense
 
-[![Publicar documentação](https://github.com/dimatp/THDB/actions/workflows/deploy.yml/badge.svg)](https://github.com/dimatp/THDB/actions/workflows/deploy.yml)
-[![MkDocs Material](https://img.shields.io/badge/docs-MkDocs%20Material-teal)](https://dimatp.github.io/THDB/)
-[![GitHub Pages](https://img.shields.io/badge/site-GitHub%20Pages-blue)](https://dimatp.github.io/THDB/)
+[![Publicar documentação](https://github.com/MarcoA-013/HdB-RIF/actions/workflows/deploy.yml/badge.svg)](https://github.com/MarcoA-013/HdB-RIF/actions/workflows/deploy.yml)
+[![MkDocs Material](https://img.shields.io/badge/docs-MkDocs%20Material-teal)](https://marcoa-013.github.io/HdB-RIF/)
+[![GitHub Pages](https://img.shields.io/badge/site-GitHub%20Pages-blue)](https://marcoa-013.github.io/HdB-RIF/)
 [![Licença](https://img.shields.io/badge/uso-educacional-green)](#)
 
 > Estudo de caso completo de resposta a incidente e forense digital, cobrindo análise de tráfego de rede com Zeek e análise de disco com Autopsy.
@@ -11,7 +11,7 @@
 
 ## 📖 Documentação completa
 
-**[dimatp.github.io/HdB-RIF](https://dimatp.github.io/THDB/)**
+**[marcoa-013.github.io/HdB-RIF](https://marcoa-013.github.io/HdB-RIF/)**
 
 O site contém todas as análises com explicações didáticas, comandos comentados, interpretação dos resultados e referências técnicas — pensado para quem está iniciando em CTI e forense digital.
 
@@ -41,7 +41,7 @@ Perícia sobre uma imagem de disco apreendida pela Delegacia de Crimes Cibernét
 ## Estrutura do repositório
 
 ```
-THDB/
+HdB-RIF/
 ├── docs/                  ← fonte do site (Markdown)
 │   ├── contexto/          ← Emotet, Greg Schardt, visão geral do caso
 │   ├── ambiente/          ← configuração do lab (Zeek + Autopsy)
