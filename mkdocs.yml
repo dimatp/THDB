@@ -1,11 +1,11 @@
-site_name: HdB-RIF — Relatório de Incidente Forense
+site_name: THDB — Forense Digital e Resposta a Incidente: Estudo de Caso Completo
 site_description: >
   Estudo de caso completo de resposta a incidente e forense digital,
   cobrindo análise de tráfego de rede com Zeek e análise de disco com Autopsy.
-site_author: MarcoA-013
-site_url: https://marcoa-013.github.io/HdB-RIF/
-repo_url: https://github.com/MarcoA-013/HdB-RIF
-repo_name: MarcoA-013/HdB-RIF
+site_author: Timóteo Dima Pereira
+site_url: https://dimatp.github.io/THDB/
+repo_url: https://github.com/dimatp/THDB
+repo_name: dimatp/THDB
 edit_uri: edit/main/docs/
 
 theme:
