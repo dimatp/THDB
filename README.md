@@ -1,6 +1,6 @@
 # HdB-RIF — Relatório de Incidente Forense
 
-[![Publicar documentação](https://github.com/dimatp/THDB/actions/workflows/deploy.yml/badge.svg)](https://github.com/dimatp/THDBF/actions/workflows/deploy.yml)
+[![Publicar documentação](https://github.com/dimatp/THDB/actions/workflows/deploy.yml/badge.svg)](https://github.com/dimatp/THDB/actions/workflows/deploy.yml)
 [![MkDocs Material](https://img.shields.io/badge/docs-MkDocs%20Material-teal)](https://dimatp.github.io/THDB/)
 [![GitHub Pages](https://img.shields.io/badge/site-GitHub%20Pages-blue)](https://dimatp.github.io/THDB/)
 [![Licença](https://img.shields.io/badge/uso-educacional-green)](#)
