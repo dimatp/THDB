@@ -1,9 +1,9 @@
-name: Publicar documentação
+name: Publicar minha documentação
 
 on:
   push:
     branches:
-      - main
+      - main # Executa a automação toda vez que você der 'git push' na branch main
   workflow_dispatch:
 
 permissions:
@@ -13,7 +13,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0   # necessário para git-revision-date
